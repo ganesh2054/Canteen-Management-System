@@ -1,0 +1,1 @@
+﻿alter table SellFood add  Total_Cost int
